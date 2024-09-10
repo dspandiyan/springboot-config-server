@@ -1,0 +1,14 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+build:
+  version: "1.0"
+accounts:
+  message: "Welcome to EazyBank cards related PROD APIs "
+  contactDetails:
+    name: "Aditi Pandiyan - Product Owner"
+    email: "apandiyan@eazybank.com"
+  onCallSupport:
+    - (222) 555-1234
+    - (222) 523-1345
